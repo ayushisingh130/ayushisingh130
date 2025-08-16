@@ -28,12 +28,12 @@
 <a href="https://jestjs.io/" target="_blank"><img src="https://skillicons.dev/icons?i=jest" width="40" height="40" alt="Jest"/></a>
 <a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="TailwindCSS"/></a>
 <a href="https://getbootstrap.com/" target="_blank"><img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="Bootstrap"/></a>
+<a href="https://firebase.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=firebase" width="40" height="40" alt="Firebase"/></a>
 <br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS3"/></a>
 <a href="https://webpack.js.org/" target="_blank"><img src="https://skillicons.dev/icons?i=webpack" width="40" height="40" alt="Webpack"/></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git"/></a>
-<a href="https://firebase.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=firebase" width="40" height="40" alt="Firebase"/></a>
 <a href="https://sass-lang.com/" target="_blank"><img src="https://skillicons.dev/icons?i=sass" width="40" height="40" alt="Sass"/></a>
 <a href="https://babeljs.io/" target="_blank"><img src="https://skillicons.dev/icons?i=babel" width="40" height="40" alt="Babel"/></a>
 <a href="https://www.cprogramming.com/" target="_blank"><img src="https://skillicons.dev/icons?i=c" width="40" height="40" alt="C"/></a>
